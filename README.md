@@ -67,7 +67,7 @@ Also: REST APIs, SEO, project management, customer support.
 
 ## Languages
 
-🇫🇷 French (native) · 🇬🇧 English (bilingual) · 🇪🇸 Spanish (school level) · 🇨🇳 Chinese (basic) · 🏴 Corsican (basic)
+🇫🇷 French (native) · 🇬🇧 English (bilingual) · 🇪🇸 Spanish (school level) · 🇨🇳 Chinese (basic) · ☀️ Corsican (basic)
 
 ## Say hi
 
